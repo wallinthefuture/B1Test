@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box
+}
+
+.container{
+    display: flex;
+    font-size: x-large;
+    padding: 16px;
+
+}
+
+.btn {
+    display: inline-block;
+    background: #0d82ea;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 15px;
+}
+
